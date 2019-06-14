@@ -22,7 +22,7 @@ $ yarn create umi
 ```
 
 > FAQ：如果提示 **create-umi 命令不存在**，你需要执行 `yarn global bin`，然后把 global bin 的路径添加到环境变量 `PATH` 中。
-
+> FAQ：win下 gitBash 命令行交互失效，可以 shift + 右键，在呼出的菜单里面使用 Powershell 来做操作（win 7 的同学请在程序菜单内搜索 Powershell）。
 选择 project，
 
 ```bash
